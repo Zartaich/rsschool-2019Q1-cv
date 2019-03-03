@@ -1,1 +1,1 @@
-https://github.com/Zartaich/rsschool-2019Q1-cv/blob/gh-pages/cv.md
+ https://zartaich.github.io/rsschool-2019Q1-cv/
