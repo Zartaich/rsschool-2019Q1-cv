@@ -1,67 +1,81 @@
 * { 
     margin: 0;
     padding: 0; 
-  }
+}
   
-  body {
+body {
     background: #f2f2f2;   
-  }
-  
-  .content-wrapper {
+}
+
+.content-wrapper {
     width: 1024px;
     margin: 0 auto; 
     padding: 20px;
-  }
-  
-  hr {
+}
+
+hr {
     margin: 15px 0 5px;
-  }
-  
-  header {
+}
+
+header {
     overflow: hidden;
     margin-bottom: 50px;
-  }
-  
-  .name {
+}
+
+.name {
     color: 	#2F4F4F;  
-  }
-  
-  .developer-position {
-    margin: 20px 0;
-  }
-  
-  .info {
+}
+
+.developer-position {
+        margin: 20px 0;
+}
+
+.info {
     float: left;
-  }
-  
-  .photo-block {
+}
+
+.photo-block {
     float: right;
     border: 2px solid rgba(106, 143, 143, 0.555);
     border-radius: 8px;
-  }
+}
 
-  .photo-block img {
+.photo-block img {
     border-radius: 4px;
-  }
-  
-  .photo {
+}
+
+.photo {
     display: block;
-  }
-  
-  .summary-heading {
+}
+
+.summary-heading {
     color: 	#2F4F4F;
-  }
-  
-  .skills-heading {
+}
+
+.skills-heading {
     color: 	#2F4F4F;
-  }
-  
-  section{
+}
+
+section{
     margin-bottom: 50px;
-  }
-  
-  .list  {
+}
+
+.list  {
     list-style-position: inside;
-  }
-  
- 
+}   
+
+.examples-heading {
+    color: 	#2F4F4F;  
+}
+
+.experience-heading {
+    color: 	#2F4F4F;  
+}
+
+.education-heading {
+    color: 	#2F4F4F;
+}
+
+.english-level-heading {
+    color: 	#2F4F4F;
+}
