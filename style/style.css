@@ -48,14 +48,6 @@ header {
     display: block;
 }
 
-.summary-heading {
-    color: 	#2F4F4F;
-}
-
-.skills-heading {
-    color: 	#2F4F4F;
-}
-
 section{
     margin-bottom: 50px;
 }
@@ -64,18 +56,7 @@ section{
     list-style-position: inside;
 }   
 
-.examples-heading {
+.section-heading {
     color: 	#2F4F4F;  
 }
 
-.experience-heading {
-    color: 	#2F4F4F;  
-}
-
-.education-heading {
-    color: 	#2F4F4F;
-}
-
-.english-level-heading {
-    color: 	#2F4F4F;
-}
