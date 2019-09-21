@@ -1,1 +1,1 @@
-# rsschool-2019Q1-cv
+# https://zartaich.github.io/rsschool-cv/cv
